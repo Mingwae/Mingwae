@@ -2,7 +2,7 @@
 
 <img src="./ss.gif" width="300">
 
-# ⚡ MINGWAE ⚡
+#  MINGWAE 
 
 ### AI SYSTEM BUILDER
 
