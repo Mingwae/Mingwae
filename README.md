@@ -16,7 +16,21 @@
 ☁️ VPS ............. ONLINE  
 🌐 IoT ............. ONLINE  
 📞 VOICE AGENT ..... BUILDING  
+```html
+<br>
 
+### ⚡ SYSTEM TERMINAL
+
+<pre>
+> booting MINGWAE AI SYSTEM...
+> loading neural engine...
+> connecting to cloud...
+> connecting to VPS...
+> initializing voice agent...
+> initializing IoT controller...
+> system status: ONLINE
+> awaiting next command_ █
+</pre>
 ---
 
 ### 🚀 CURRENT PROJECTS
