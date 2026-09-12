@@ -16,7 +16,6 @@
 ☁️ VPS ............. ONLINE  
 🌐 IoT ............. ONLINE  
 📞 VOICE AGENT ..... BUILDING  
-```html
 <br>
 
 ### ⚡ SYSTEM TERMINAL
@@ -31,8 +30,6 @@
 > system status: ONLINE
 > awaiting next command_ █
 </pre>
----
-
 ### 🚀 CURRENT PROJECTS
 
 🤖 **AI Customer Service**
